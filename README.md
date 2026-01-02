@@ -6,6 +6,6 @@
 - 🕹️ Currently interested in learning Unity and game development  
 - 📱 Interested in developing iOS applications
 
-
 **Stats**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjotSingh18&show_icons=true&theme=gruvbox)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarjotSingh18&show_icons=true&theme=gruvbox&cache_seconds=1800)
