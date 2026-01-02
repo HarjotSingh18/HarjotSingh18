@@ -8,4 +8,4 @@
 
 **Stats**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarjotSingh18&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarjotSingh18&theme=dark)
