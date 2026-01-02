@@ -6,6 +6,6 @@
 - 🕹️ Currently interested in learning Unity and game development  
 - 📱 Interested in developing iOS applications
 
-**Stats**
+## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarjotSingh18&theme=onedark)
