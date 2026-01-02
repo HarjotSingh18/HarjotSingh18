@@ -8,4 +8,4 @@
 
 **Stats**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarjotSingh18&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarjotSingh18&theme=synthwave)
