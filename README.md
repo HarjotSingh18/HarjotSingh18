@@ -8,4 +8,4 @@
 
 **Stats**
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarjotSingh18&show_icons=true&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarjotSingh18&theme=gruvbox)
